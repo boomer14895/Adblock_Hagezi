@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1786349280 43200 3600 259200 3600
+@ SOA localhost. root.localhost. 1786436340 43200 3600 259200 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Aug 2026 08:08 UTC
-; Version: 2026.0810.0808.18
+; Last modified: 11 Aug 2026 08:19 UTC
+; Version: 2026.0811.0819.37
 ; Syntax: RPZ
-; Number of entries: 6760
+; Number of entries: 6746
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1669,8 +1669,6 @@ dns.saneaki.com CNAME .
 *.dns.saneaki.com CNAME .
 dns.sarilouis.com CNAME .
 *.dns.sarilouis.com CNAME .
-ns1.sc-lezhi.com CNAME .
-*.ns1.sc-lezhi.com CNAME .
 dns.scapetical.com CNAME .
 *.dns.scapetical.com CNAME .
 dns.scayn.com CNAME .
@@ -3099,8 +3097,6 @@ de.dns.privex.io CNAME .
 *.de.dns.privex.io CNAME .
 nl.dns.privex.io CNAME .
 *.nl.dns.privex.io CNAME .
-doh.qis.io CNAME .
-*.doh.qis.io CNAME .
 kams.kii.qzz.io CNAME .
 *.kams.kii.qzz.io CNAME .
 zouter.zhang3118.qzz.io CNAME .
@@ -4179,8 +4175,6 @@ dns.powerbs.net CNAME .
 *.dns.powerbs.net CNAME .
 home.qbak.net CNAME .
 *.home.qbak.net CNAME .
-hostdare.qtxd.net CNAME .
-*.hostdare.qtxd.net CNAME .
 alpha-dns.quad9.net CNAME .
 *.alpha-dns.quad9.net CNAME .
 dns.quad9.net CNAME .
@@ -4617,8 +4611,6 @@ adguard.ext.devkon.org CNAME .
 *.adguard.ext.devkon.org CNAME .
 dns8.org CNAME .
 *.dns8.org CNAME .
-dnsbunker.org CNAME .
-*.dnsbunker.org CNAME .
 ns.dnsviewer.org CNAME .
 *.ns.dnsviewer.org CNAME .
 ns1.dotls.org CNAME .
@@ -5863,8 +5855,6 @@ doh.mochou.site CNAME .
 *.doh.mochou.site CNAME .
 s1.s2.shahramv1.site CNAME .
 *.s1.s2.shahramv1.site CNAME .
-dns.srijan.site CNAME .
-*.dns.srijan.site CNAME .
 agha.sunryu.site CNAME .
 *.agha.sunryu.site CNAME .
 tecdrive.site CNAME .
@@ -6105,8 +6095,6 @@ dns.seekfor.top CNAME .
 *.dns.seekfor.top CNAME .
 servis4u.top CNAME .
 *.servis4u.top CNAME .
-wtbd02.solowalk.top CNAME .
-*.wtbd02.solowalk.top CNAME .
 s1.srch.top CNAME .
 *.s1.srch.top CNAME .
 adguard.stoian.top CNAME .
@@ -6713,8 +6701,6 @@ dns.sainternet.xyz CNAME .
 *.dns.sainternet.xyz CNAME .
 adguard.servernation.xyz CNAME .
 *.adguard.servernation.xyz CNAME .
-ag.ssrahul96.xyz CNAME .
-*.ag.ssrahul96.xyz CNAME .
 doh.sublime9.xyz CNAME .
 *.doh.sublime9.xyz CNAME .
 thakkali.teej.xyz CNAME .

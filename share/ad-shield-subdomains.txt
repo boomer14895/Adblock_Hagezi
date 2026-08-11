@@ -1616,6 +1616,15 @@ whichfreely.com
 9.whichfreely.com
 stg.whichfreely.com
 0.stg.whichfreely.com
+1.stg.whichfreely.com
+2.stg.whichfreely.com
+3.stg.whichfreely.com
+4.stg.whichfreely.com
+5.stg.whichfreely.com
+6.stg.whichfreely.com
+7.stg.whichfreely.com
+8.stg.whichfreely.com
+9.stg.whichfreely.com
 whoeverbeyond.com
 0.whoeverbeyond.com
 1.whoeverbeyond.com
@@ -1706,6 +1715,7 @@ loader.woxikon.de
 7.loader.woxikon.de
 8.loader.woxikon.de
 9.loader.woxikon.de
+yahoolock.com
 yakunitfall.com
 lieu.yakunitfall.com
 0.lieu.yakunitfall.com

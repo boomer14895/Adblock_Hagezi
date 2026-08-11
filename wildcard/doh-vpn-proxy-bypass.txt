@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Aug 2026 08:09 UTC
-# Version: 2026.0810.0809.04
+# Last modified: 11 Aug 2026 08:20 UTC
+# Version: 2026.0811.0820.30
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 16871
+# Number of entries: 16768
 #
 *.ss.0001.xyz
 *.ilovethiswebsite.001-lab.space
@@ -5037,9 +5037,7 @@
 *.vpsus3.pzhg.me
 *.home.qbak.net
 *.adk.qcloud.work
-*.wasd.my.qh.ie
 *.dns.qkc.fr
-*.wearily.qoeat.com
 *.dns.qpt.one
 *.dns2.qpt.one
 *.httpdns.kg.qq.com
@@ -5049,10 +5047,8 @@
 *.dns.qq.com
 *.ns1.qquack.org
 *.dns.qrtz.club
-*.hostdare.qtxd.net
 *.moc.scinortele-ytilauq.quality-electronics.com
 *.dns.quanhd.net
-*.pfft.questobjects.com
 *.api.quetios.com
 *.dns.quickline.ch
 *.doh.quickline.ch
@@ -5101,11 +5097,8 @@
 *.school.edu.radix-site.com
 *.check.ragpets.com
 *.ns.ral9005.org
-*.luminalvcsa.ramalhais.com
-*.madeby-vcsa.ramalhais.com
 *.dns.ramansarda.com
 *.drpepperisbetter.ramonmedina.net
-*.nana.ddx.v2.ramos90.ca
 *.thiscopyofartclassisnotgenuine.rare1k.space
 *.doh.rasmusminde.dk
 *.emby.rasp.tv
@@ -5118,8 +5111,6 @@
 *.dns.rbn.gr
 *.searxng.rcxpony.name
 *.adguard.rdekuyper.nl
-*.api.rdocart.com
-*.jeanndunn.rdocart.com
 *.dns.readlook.tk
 *.learn.readymindit.com
 *.research.readymindit.com
@@ -5132,12 +5123,6 @@
 *.dns.redvau.lt
 *.cdn.refined.pro
 *.dns.reitmeier.me
-*.dylan-has-balls.renaceracs.xyz
-*.hack-in-sms.renaceracs.xyz
-*.hacker-from-sms.renaceracs.xyz
-*.sms-is-good.renaceracs.xyz
-*.sms-is-so-pretty.renaceracs.xyz
-*.wassup-guys-sms.renaceracs.xyz
 *.dns.renardyre.com
 *.adblock.renedis.nl
 *.dns.reolinks.ru
@@ -5157,7 +5142,6 @@
 *.dns1.rhscz.eu
 *.dns2.rhscz.eu
 *.adguard.richardapplegate.io
-*.subscribevcsa.richreel.com
 *.dns.rin.sh
 *.ddx.v2.nana.rinet.ai
 *.interstellar.nana.rinet.ai
@@ -5168,17 +5152,10 @@
 *.lolgod109.rinet.ai
 *.dns.rinux.win
 *.3.141592653589793238462643383.riseelevetors.com
-*.helanirmg.riseelevetors.com
-*.nirbytesluminal.riseelevetors.com
-*.nirbytesvapor.riseelevetors.com
-*.nirbytesvoid.riseelevetors.com
 *.api.black.riseup.net
 *.3658729.ritebooks.com
-*.www.securly.com.riteeats.com
 *.dns.rjls.me
 *.adguard.rjscho.net
-*.us-east-production-25671.rkimport.com
-*.us-east-production-3457.rkimport.com
 *.zetland.rm-ni.uk
 *.sudo.rm-rf.cloud
 *.adguard.ro0t.us
@@ -5192,16 +5169,8 @@
 *.adg.rokh.biz
 *.dns.romain.tech
 *.dns.ronc.ru
-*.hvetemelisapotato123.root.sx
 *.vps1.rootax.org
 *.vps2.rootax.org
-*.xciouveksjkdfsdf.ekcjxvlesdfes.rossco.uk
-*.zxcviuosdfwdf.fjlkecxv.rossco.uk
-*.xkcjvklesfds.klxjcveklsdfs.rossco.uk
-*.pocixvbv.ocvubikf.rossco.uk
-*.wkjlxicvoes.wioucxvjlksd.rossco.uk
-*.wjlkcxvosddf.wiuxcvoiesdf.rossco.uk
-*.wxcvkld.wkvxjkld.rossco.uk
 *.dns.rotunneling.net
 *.bzndkv.route64.de
 *.dasfh.route64.de
@@ -5236,7 +5205,6 @@
 *.agh-bitk.russel053.com
 *.agh-yz.russel053.com
 *.drs.rustsword.com
-*.research.rustyfoundation.com
 *.dns1.ryan-palmer.com
 *.vpn.rynet.link
 *.hi.ryuflowing.org
@@ -5262,12 +5230,8 @@
 *.staging.sailforeducation.org
 *.wmhctvlu.sailforeducation.org
 *.dns.sainternet.xyz
-*.clever.com.saintsparky.org
-*.zxiocvus.bjlskjdf.salavat.ru
-*.www.securly.com.salavat.ru
 *.dns.sales-kbr.online
 *.work.idea.salman.pk
-*.betherethe.sametimetomorrow.net
 *.lime.samonte.ovh
 *.cloud.samutz.com
 *.bio.know.samyagan.com
@@ -5295,18 +5259,10 @@
 *.www-proxy.sayed.page
 *.course.music.sbindy.com
 *.dns.sbstructure.ir
-*.ns1.sc-lezhi.com
 *.us.sc92.cn
 *.dns.scapetical.com
 *.dns.scarx.net
 *.dns.scayn.com
-*.hjkhnkhkldfg.dchjvkhdfhbnksdf.sceneco.re
-*.fgcvjhuytgfvbjhngvbhju.fghbgvfhbjguyjg.sceneco.re
-*.hghbjnkg.fgyhjbgjnbg.sceneco.re
-*.yuijhjuiokjiui.gbnjyghvbnmjhg.sceneco.re
-*.cgfvhujkmnbvcgbn.hgfvjhnkhcvbnhg.sceneco.re
-*.sdflkjkls.sdkfjsdf.sceneco.re
-*.tjklfdjaskdf.skdlfjksf.sceneco.re
 *.filter.das.sch.id
 *.point.scheduleholiday.christmas
 *.proxy.schel.li
@@ -5318,28 +5274,12 @@
 *.play.schooloqy.com
 *.wiki.schooloqy.com
 *.gravity.sciencevictory.org
-*.programming.scmdatasolution.com
 *.dns.scott.ovh
 *.dns.scott-smith.us
 *.learnaboutbillclinton.scrapitsoftware.com
-*.canceroutbreaks.screenclip.net
-*.clever.screenclip.net
-*.coronaoutbreaks.screenclip.net
-*.famous.screenclip.net
-*.famousin.screenclip.net
-*.fluoutbreaks.screenclip.net
-*.hydra.screenclip.net
-*.ixl.screenclip.net
-*.mygod.screenclip.net
-*.mywholelife.screenclip.net
-*.prisonoutbreaks.screenclip.net
-*.recentviruses.screenclip.net
-*.school.screenclip.net
-*.suomafni.screenclip.net
 *.dns.sct-pro.com
 *.dns.scuola.org
 *.repocket-production.s3.fr-par.scw.cloud
-*.question.sdao.me
 *.facts.teach.sdm-tv.com
 *.adguard.sealyserver.com
 *.dns.seaotter.cc
@@ -5376,19 +5316,11 @@
 *.assets-prod-a230.s3.serverwild.com
 *.dns.servizimv.it
 *.alidns.session.pub
-*.www.securly.com.setto.cl
-*.htmenirbytes.setto.cl
-*.ombytensmi.setto.cl
 *.dns.sev.monster
-*.alphalogic.sevecom.com
 *.interstellar.sevecom.com
-*.keepyourweapon.sevecom.com
 *.learnvcsa.sevecom.com
-*.lightcoding.sevecom.com
 *.playernation.sevecom.com
 *.pates.services.sfr.fr.casepp.sfr.fr
-*.avasthecoolestperson.sg-rasselbandi.ch
-*.gang.sg-rasselbandi.ch
 *.www-8.shaammy.ir
 *.d2.shabi.icu
 *.s1.s2.shahramv1.site
@@ -5421,10 +5353,8 @@
 *.myst.schooling.simpatizzo.org
 *.quantum.schooling.simpatizzo.org
 *.notes.pupil.simplecharity.com
-*.the.simplecharity.com
 *.dns.simplylinux.ch
 *.dns.sindominio.net
-*.family.sinuabi.ee
 *.northfayetteschools-org.sitesi.tc
 *.moto.adg.siudzinski.net
 *.sams.adg.siudzinski.net
@@ -5434,7 +5364,6 @@
 *.test4.adg.siudzinski.net
 *.adguard.sixxi.de
 *.clever.sjeducation.org
-*.ofer.ox.sjtech.org
 *.iproyal.sjv.io
 *.words.facts.skardafamily.com
 *.plex.skin57.de
@@ -5456,22 +5385,11 @@
 *.lunarsync.smartfoloo.space
 *.dns.smartguard.io
 *.singy.smartq.dev
-*.call.it.smasesorias.cl
-*.sdifjklwkehhdfjkl.osdklafnm.smasesorias.cl
-*.olukjhgfhjgn.weqrtfgesd.smasesorias.cl
-*.cheesyballsnohomo.smasesorias.cl
-*.hi.smasesorias.cl
-*.january2026.smasesorias.cl
-*.mathtextbooks.smasesorias.cl
-*.morelinks.smasesorias.cl
-*.siadgofhljkjjhsda.smasesorias.cl
 *.real.paper.smashing.ws
-*.selenite.vcsa.smashtop.com
 *.studyingsofun.smathis.com
 *.sudeepapini.smathis.com
 *.historyforus.smelly.cc
 *.interstellarisback.smelly.cc
-*.language.smelly.cc
 *.api.smoz.me
 *.dns.sneakypanda.org
 *.home.snow-sugar.net
@@ -5484,7 +5402,6 @@
 *.myprivityvpn.softether.net
 *.free-vpn.en.softonic.com
 *.imfroggingit.soloo.win
-*.wtbd02.solowalk.top
 *.ns.solutics.ec
 *.ns.solutionsbest.de
 *.r.soraapp.gq
@@ -5507,22 +5424,18 @@
 *.wormhole.is.your-savior.spacejamhd.com
 *.sigmatic.spacejamhd.com
 *.threeproxy.spacejamhd.com
-*.ilovemath.spacetechnology.net
 *.lousiana-history-careers-ixl-geoly-education.spacetechnology.net
 *.lomoff.spb.ru
 *.wifrousl.spdns.de
 *.doh-01.spectrum.com
 *.doh-02.spectrum.com
 *.doh-03.spectrum.com
-*.sainttech.spencerbosworth.com
 *.www-testus.spiderprx.com
 *.www-proxy.spin.rip
 *.dns.spirio.fr
-*.soadfjrksf.lasdkfj.sportconceptmedia.ru
 *.physicaleducation.sportseducationinstructors.org
 *.s1.srch.top
 *.adguard.sre.ovh
-*.dns.srijan.site
 *.proxy.srs.su
 *.dns2.srv-home.fr
 *.resolve.srv-pro.de
@@ -5586,7 +5499,6 @@
 *.92-38-177-16.sslip.io
 *.92-38-177-17.sslip.io
 *.doh.ntu.ssooss.win
-*.ag.ssrahul96.xyz
 *.dns.sstomp.nl
 *.dns2.st4rs.net
 *.prep.skills.stabbed.me
@@ -8815,7 +8727,6 @@
 *.dns4eu.online
 *.dns4me.net
 *.dns8.org
-*.dnsbunker.org
 *.dnsbycomodo.com
 *.dnscry.pt
 *.dnscrypt.ca
@@ -12715,6 +12626,7 @@
 *.naruzhu.click
 *.naruzhu.work
 *.narvokel.ru
+*.nasavpn.top
 *.nash-vps.com
 *.nashvpc.com
 *.nashvpn.app
@@ -13845,7 +13757,6 @@
 *.q1w2e3r4.xyz
 *.q6b2logs.com
 *.qa-brwsc.org
-*.qaiik.info
 *.qandoria.ru
 *.qarion.ru
 *.qarlovim.hair
@@ -13883,7 +13794,6 @@
 *.qintaro.ru
 *.qirevo.xyz
 *.qis.io
-*.qittdfnd.cc
 *.qiuehf3.co
 *.qiventa.ru
 *.qiventa.xyz
@@ -13897,7 +13807,6 @@
 *.qodami.com
 *.qolfgv.xyz
 *.qpadf.com
-*.qpzpmwfh.com
 *.qqmcfw.tech
 *.qrykgvdh.com
 *.qstam.ru
@@ -13938,7 +13847,6 @@
 *.quorilo.ru
 *.qustano.xyz
 *.qv2ray.org
-*.qvkyjkus.cc
 *.qwiepc.com
 *.qwpien.com
 *.qwruo.com
@@ -13971,8 +13879,6 @@
 *.raidnas.xyz
 *.rainforest.lol
 *.raininglondon.com
-*.rainshadow.help
-*.rajgdpqu.com
 *.raldrix.ru
 *.raltrix.ru
 *.ralveno.ru
@@ -14052,7 +13958,6 @@
 *.revko.info
 *.rezerofanbase.com
 *.rfnprotection.uk
-*.rfoncizw.com
 *.rgvpn.cc
 *.rhrplgsb.cc
 *.richardo.net
@@ -14066,7 +13971,6 @@
 *.rinki.live
 *.rinki.pro
 *.rinki.space
-*.rinki.wiki
 *.rinki.xyz
 *.riolu.icu
 *.riolu.ooo
@@ -14256,7 +14160,6 @@
 *.secretproxy.org
 *.secretsline.biz
 *.secretsline.org
-*.secure-proxy.shop
 *.secure-vpn.com
 *.secureconnect.me
 *.secured.wiki
@@ -14370,9 +14273,7 @@
 *.shelljacket.us
 *.shendengjiasu.com
 *.shflora.com
-*.shieldproxy.net
 *.shihui992.com
-*.shijieyunxz.com
 *.shitblocker.com
 *.shiva-app.io
 *.shopboog.com
@@ -14397,7 +14298,6 @@
 *.sigmavpn.lol
 *.signsservers.ru
 *.signup-express-vpn.guru
-*.silenceisnot.fun
 *.sillygaming.org
 *.silvaro.ru
 *.silvento.ru
@@ -14428,7 +14328,6 @@
 *.siteunblock.org
 *.siteunblock.xyz
 *.siteunblocked.club
-*.siteunblocked.lol
 *.siteunblocked.space
 *.siteunblocked.xyz
 *.sitev3.org
@@ -14504,7 +14403,6 @@
 *.soso.loan
 *.sotavpn.com
 *.sotk.am
-*.soundwaveearbuds.com
 *.sourceproxy.com
 *.soverin.shop
 *.sovpn.cc
@@ -14555,7 +14453,6 @@
 *.sportvideo24.ru
 *.springmultimedia.space
 *.spwvpn.com
-*.spxojvuq.cc
 *.spyoff.com
 *.spys.one
 *.spysurfing.com

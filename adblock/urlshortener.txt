@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Aug 2026 06:59 UTC
-! Version: 2026.0810.0659.39
+! Last modified: 11 Aug 2026 07:00 UTC
+! Version: 2026.0811.0700.24
 ! Syntax: AdBlock
-! Number of entries: 9896
+! Number of entries: 9877
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -688,7 +688,6 @@
 ||go.sparkerlink.com^
 ||link.spirofly.com^
 ||y.stadtfabrikanten.org^
-||direct.starbets.academy^
 ||io.steelcutaudio.com^
 ||link.stluzi.ch^
 ||biolinks.stralite.com^
@@ -6622,7 +6621,6 @@
 ||quickcode.digital^
 ||quicklinkpro.io^
 ||quickqr.be^
-||quicky.digital^
 ||quicurl.com^
 ||quik.im^
 ||quili.co^
@@ -6686,7 +6684,6 @@
 ||rbit.vision^
 ||rblx.co^
 ||rbm.li^
-||rbrandly.com^
 ||rbtly.com^
 ||rbtxt.com^
 ||rbxurl.pro^
@@ -6760,7 +6757,6 @@
 ||reducelnk.com^
 ||redvt.cc^
 ||reel.io^
-||reelsdownload.net^
 ||ref.gs^
 ||ref.li^
 ||ref.so^
@@ -6777,7 +6773,6 @@
 ||reive.site^
 ||rejoicing.com^
 ||rejoindre.app^
-||rekale.me^
 ||relay.tr^
 ||relevanzastudio.com^
 ||reline.cc^
@@ -6883,7 +6878,6 @@
 ||rpf.io^
 ||rplg.co^
 ||rptl.io^
-||rpurls.com^
 ||rpxl.me^
 ||rq.fyi^
 ||rr.be^
@@ -7006,7 +7000,6 @@
 ||sayapbola.cc^
 ||sayhi.bio^
 ||sazi.to^
-||sbgo.io^
 ||sbird.co^
 ||sbirds.us^
 ||sbms.biz^
@@ -7156,7 +7149,6 @@
 ||shareus.io^
 ||shareyou.link^
 ||shatu.nl^
-||shavel.ink^
 ||shavelinks.com^
 ||shct.io^
 ||shelbyknox.com^
@@ -7170,7 +7162,6 @@
 ||shink.me^
 ||shiny.link^
 ||shkurt.al^
-||shkurto.com^
 ||shlink.id^
 ||shlink.in^
 ||shlink.io^
@@ -7244,7 +7235,6 @@
 ||shortduck.com^
 ||shorte.bio^
 ||shorte.ink^
-||shorte.net^
 ||shorte.st^
 ||shortearn.to^
 ||shortearner.in^
@@ -7318,7 +7308,6 @@
 ||shortin.in^
 ||shortin.link^
 ||shortino.link^
-||shortinx.xyz^
 ||shortiny.com^
 ||shortio.cn^
 ||shortio.sk^
@@ -7371,7 +7360,6 @@
 ||shortme.xyz^
 ||shortmenu.com^
 ||shortmylink.co^
-||shortmylink.in^
 ||shortmyurl.app^
 ||shortn.link^
 ||shortna.me^
@@ -7429,7 +7417,6 @@
 ||shorturl.win^
 ||shorturl.ws^
 ||shorturl4me.com^
-||shorturl88.com^
 ||shorturlapp.com^
 ||shorturlbot.com^
 ||shorturlhub.com^
@@ -7456,7 +7443,6 @@
 ||shortyzone.com^
 ||shoturl.org^
 ||shoturl.us^
-||shotxy.com^
 ||shotzon.com^
 ||shourl.com^
 ||shout.to^
@@ -7508,7 +7494,6 @@
 ||shrinqly.com^
 ||shrnk.link^
 ||shrnkz.com^
-||shroomxum.com^
 ||shrt.co^
 ||shrt.in^
 ||shrt.it^
@@ -7566,7 +7551,6 @@
 ||shy.si^
 ||shylink.io^
 ||shylnk.com^
-||sia.re^
 ||sibly.ir^
 ||sic.onl^
 ||sicax.net^
@@ -7674,10 +7658,8 @@
 ||sma.ug^
 ||smaintenance.com^
 ||smal.lu^
-||smalee.com^
 ||small.cat^
 ||smallit.cc^
-||smalllink.pro^
 ||smalllnk.com^
 ||smalltoolkit.com^
 ||smallu.link^
@@ -7790,7 +7772,6 @@
 ||sokrati.ru^
 ||solink.in^
 ||solsn.se^
-||sonicenhancedfood.com^
 ||sonoran.link^
 ||soo.gd^
 ||soop.li^

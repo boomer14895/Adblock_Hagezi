@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Aug 2026 08:08 UTC
-# Version: 2026.0810.0808.18
+# Last modified: 11 Aug 2026 08:19 UTC
+# Version: 2026.0811.0819.37
 # Syntax: Domains (without subdomains)
-# Number of entries: 3380
+# Number of entries: 3373
 #
 ss.0001.xyz
 ns.00dani.me
@@ -2245,7 +2245,6 @@ at.pzhg.me
 vpsus3.pzhg.me
 home.qbak.net
 adk.qcloud.work
-doh.qis.io
 dns.qkc.fr
 dns.qpt.one
 dns2.qpt.one
@@ -2256,7 +2255,6 @@ udns.weixin.qq.com
 dns.qq.com
 ns1.qquack.org
 dns.qrtz.club
-hostdare.qtxd.net
 2.dnscrypt-cert.quad9.net
 alpha-dns.quad9.net
 dns.quad9.net
@@ -2389,7 +2387,6 @@ dns.sark.dev
 dns.homenet.saschagaspar.net
 dns.satellite226.cloud
 dns.sbstructure.ir
-ns1.sc-lezhi.com
 us.sc92.cn
 dns.scapetical.com
 dns.scarx.net
@@ -2476,7 +2473,6 @@ home.snow-sugar.net
 ag.snrka.ru
 adguardhome.softcloud.pe
 myprivityvpn.softether.net
-wtbd02.solowalk.top
 ns.solutics.ec
 ns.solutionsbest.de
 adguard.spaceindex.net
@@ -2488,7 +2484,6 @@ doh-03.spectrum.com
 dns.spirio.fr
 s1.srch.top
 adguard.sre.ovh
-dns.srijan.site
 proxy.srs.su
 dns2.srv-home.fr
 resolve.srv-pro.de
@@ -2496,7 +2491,6 @@ resolve02.srv-pro.de
 resolve2.srv-pro.de
 dns.sshub.win
 doh.ntu.ssooss.win
-ag.ssrahul96.xyz
 dns.sstomp.nl
 dns2.st4rs.net
 hk2.ss.startagegames.com
@@ -3028,7 +3022,6 @@ dns0.eu
 dns4eu.online
 dns4me.net
 dns8.org
-dnsbunker.org
 dnsdoh.art
 dnsenc.com
 dnsforfamily.com

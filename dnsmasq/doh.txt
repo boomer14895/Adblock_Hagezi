@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Aug 2026 08:08 UTC
-# Version: 2026.0810.0808.18
+# Last modified: 11 Aug 2026 08:19 UTC
+# Version: 2026.0811.0819.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3380
+# Number of entries: 3373
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -2245,7 +2245,6 @@ local=/at.pzhg.me/
 local=/vpsus3.pzhg.me/
 local=/home.qbak.net/
 local=/adk.qcloud.work/
-local=/doh.qis.io/
 local=/dns.qkc.fr/
 local=/dns.qpt.one/
 local=/dns2.qpt.one/
@@ -2256,7 +2255,6 @@ local=/udns.weixin.qq.com/
 local=/dns.qq.com/
 local=/ns1.qquack.org/
 local=/dns.qrtz.club/
-local=/hostdare.qtxd.net/
 local=/2.dnscrypt-cert.quad9.net/
 local=/alpha-dns.quad9.net/
 local=/dns.quad9.net/
@@ -2389,7 +2387,6 @@ local=/dns.sark.dev/
 local=/dns.homenet.saschagaspar.net/
 local=/dns.satellite226.cloud/
 local=/dns.sbstructure.ir/
-local=/ns1.sc-lezhi.com/
 local=/us.sc92.cn/
 local=/dns.scapetical.com/
 local=/dns.scarx.net/
@@ -2476,7 +2473,6 @@ local=/home.snow-sugar.net/
 local=/ag.snrka.ru/
 local=/adguardhome.softcloud.pe/
 local=/myprivityvpn.softether.net/
-local=/wtbd02.solowalk.top/
 local=/ns.solutics.ec/
 local=/ns.solutionsbest.de/
 local=/adguard.spaceindex.net/
@@ -2488,7 +2484,6 @@ local=/doh-03.spectrum.com/
 local=/dns.spirio.fr/
 local=/s1.srch.top/
 local=/adguard.sre.ovh/
-local=/dns.srijan.site/
 local=/proxy.srs.su/
 local=/dns2.srv-home.fr/
 local=/resolve.srv-pro.de/
@@ -2496,7 +2491,6 @@ local=/resolve02.srv-pro.de/
 local=/resolve2.srv-pro.de/
 local=/dns.sshub.win/
 local=/doh.ntu.ssooss.win/
-local=/ag.ssrahul96.xyz/
 local=/dns.sstomp.nl/
 local=/dns2.st4rs.net/
 local=/hk2.ss.startagegames.com/
@@ -3028,7 +3022,6 @@ local=/dns0.eu/
 local=/dns4eu.online/
 local=/dns4me.net/
 local=/dns8.org/
-local=/dnsbunker.org/
 local=/dnsdoh.art/
 local=/dnsenc.com/
 local=/dnsforfamily.com/
