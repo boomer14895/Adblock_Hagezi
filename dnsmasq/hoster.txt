@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Aug 2026 07:44 UTC
-# Version: 2026.0808.0744.16
+# Last modified: 11 Aug 2026 22:41 UTC
+# Version: 2026.0811.2241.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1258
+# Number of entries: 1257
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
@@ -729,7 +729,6 @@ local=/j55.eu/
 local=/ja.cat/
 local=/janhost.com/
 local=/jcmemoryscan.com/
-local=/jimdofree.com/
 local=/jixx.de/
 local=/jixx.net/
 local=/job.ec/

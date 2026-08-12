@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1786436340 43200 3600 259200 3600
+@ SOA localhost. root.localhost. 1786523340 43200 3600 259200 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Aug 2026 08:19 UTC
-; Version: 2026.0811.0819.37
+; Last modified: 12 Aug 2026 08:29 UTC
+; Version: 2026.0812.0829.23
 ; Syntax: RPZ
-; Number of entries: 6746
+; Number of entries: 6728
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1747,8 +1747,6 @@ rx.techomespace.com CNAME .
 *.rx.techomespace.com CNAME .
 family.dns.teknoholistik.com CNAME .
 *.family.dns.teknoholistik.com CNAME .
-dns.teknologiku.com CNAME .
-*.dns.teknologiku.com CNAME .
 cloud.tezoi.com CNAME .
 *.cloud.tezoi.com CNAME .
 thefamilypuls.com CNAME .
@@ -1769,8 +1767,6 @@ chronicle14.tplinkdns.com CNAME .
 *.chronicle14.tplinkdns.com CNAME .
 ebpmc.tplinkdns.com CNAME .
 *.ebpmc.tplinkdns.com CNAME .
-ngk81hc.tplinkdns.com CNAME .
-*.ngk81hc.tplinkdns.com CNAME .
 access.traders-friend.com CNAME .
 *.access.traders-friend.com CNAME .
 apps.truckbel.com CNAME .
@@ -2963,8 +2959,6 @@ a-bld.sys-adm.in CNAME .
 *.a-bld.sys-adm.in CNAME .
 bld.sys-adm.in CNAME .
 *.bld.sys-adm.in CNAME .
-adguard.techlike.in CNAME .
-*.adguard.techlike.in CNAME .
 doh.technochat.in CNAME .
 *.doh.technochat.in CNAME .
 dns.webfork.in CNAME .
@@ -3123,10 +3117,6 @@ dns.supercluster.io CNAME .
 *.dns.supercluster.io CNAME .
 adguard.tcpu.io CNAME .
 *.adguard.tcpu.io CNAME .
-iana.tenta.io CNAME .
-*.iana.tenta.io CNAME .
-opennic.tenta.io CNAME .
-*.opennic.tenta.io CNAME .
 nebula.tru.io CNAME .
 *.nebula.tru.io CNAME .
 resolver.unstoppable.io CNAME .
@@ -4275,8 +4265,6 @@ adguard.tetnet.net CNAME .
 *.adguard.tetnet.net CNAME .
 dns.thegoodsource.net CNAME .
 *.dns.thegoodsource.net CNAME .
-timedns.net CNAME .
-*.timedns.net CNAME .
 agathe.tobkar.net CNAME .
 *.agathe.tobkar.net CNAME .
 edgar.tobkar.net CNAME .
@@ -5755,14 +5743,10 @@ adguard.tver-tech.ru CNAME .
 *.adguard.tver-tech.ru CNAME .
 rb750gr3.ulfhednar.ru CNAME .
 *.rb750gr3.ulfhednar.ru CNAME .
-adguard-ironhide.ultima-thule.ru CNAME .
-*.adguard-ironhide.ultima-thule.ru CNAME .
 v0dka.ru CNAME .
 *.v0dka.ru CNAME .
 vasiliysoldatkin.ru CNAME .
 *.vasiliysoldatkin.ru CNAME .
-vasilykumaev.ru CNAME .
-*.vasilykumaev.ru CNAME .
 dns.vectorsigma.ru CNAME .
 *.dns.vectorsigma.ru CNAME .
 vernikpro.ru CNAME .
@@ -5891,8 +5875,6 @@ pygos.space CNAME .
 *.pygos.space CNAME .
 adg.rueiliu.space CNAME .
 *.adg.rueiliu.space CNAME .
-strangerandomdomain1.space CNAME .
-*.strangerandomdomain1.space CNAME .
 adguard.vegann.space CNAME .
 *.adguard.vegann.space CNAME .
 adguard.wifri.space CNAME .

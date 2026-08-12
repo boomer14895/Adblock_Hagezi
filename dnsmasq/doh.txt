@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Aug 2026 08:19 UTC
-# Version: 2026.0811.0819.37
+# Last modified: 12 Aug 2026 08:29 UTC
+# Version: 2026.0812.0829.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3373
+# Number of entries: 3364
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -2566,7 +2566,6 @@ local=/dns.teaminfo.fr/
 local=/dns-br.leonardo.tec.br/
 local=/dns.techcpu.net/
 local=/dns1.techeasy.org/
-local=/adguard.techlike.in/
 local=/vpn.technicule.info/
 local=/dns1.techniverse.net/
 local=/doh.technochat.in/
@@ -2578,14 +2577,11 @@ local=/dns.teckhawk.be/
 local=/thakkali.teej.xyz/
 local=/dns.tefuir0829.cn/
 local=/family.dns.teknoholistik.com/
-local=/dns.teknologiku.com/
 local=/homenet.telecomitalia.it/
 local=/dns.telekom.de/
 local=/d51538618.access.telenet.be/
 local=/guard.telesterion.de/
 local=/agh.srv.tenete.net/
-local=/iana.tenta.io/
-local=/opennic.tenta.io/
 local=/ag.teqilla.tk/
 local=/apne1.dns.terumi.club/
 local=/dns.soldier.terumi.club/
@@ -2634,7 +2630,6 @@ local=/nsc.torgues.net/
 local=/doh.totoro.pub/
 local=/chronicle14.tplinkdns.com/
 local=/ebpmc.tplinkdns.com/
-local=/ngk81hc.tplinkdns.com/
 local=/dns.tracker.ink/
 local=/access.traders-friend.com/
 local=/resolv1.trash.net/
@@ -2670,7 +2665,6 @@ local=/blokuj.ujwie.co/
 local=/nitter.ujwie.co/
 local=/adguard.ulbricht.cloud/
 local=/rb750gr3.ulfhednar.ru/
-local=/adguard-ironhide.ultima-thule.ru/
 local=/doh.ultradns.com/
 local=/dns.umbrella.com/
 local=/doh.umbrella.com/
@@ -3297,7 +3291,6 @@ local=/squidmall.vip/
 local=/ssh-storage.ru/
 local=/ssytnik.de/
 local=/sterlingharris.com/
-local=/strangerandomdomain1.space/
 local=/strassmair.org/
 local=/structoriumwings.ru/
 local=/sunnygyl.com/
@@ -3312,7 +3305,6 @@ local=/thefamilypuls.com/
 local=/thenotionplus.top/
 local=/thxvv.ru/
 local=/tigrons.ru/
-local=/timedns.net/
 local=/timmes.nl/
 local=/tk31z.com/
 local=/tlz.asia/
@@ -3335,7 +3327,6 @@ local=/v.recipes/
 local=/v0dka.ru/
 local=/vadim.online/
 local=/vasiliysoldatkin.ru/
-local=/vasilykumaev.ru/
 local=/veraris.online/
 local=/vernikpro.ru/
 local=/vik.ro/

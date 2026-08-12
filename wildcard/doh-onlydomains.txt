@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Aug 2026 08:19 UTC
-# Version: 2026.0811.0819.37
+# Last modified: 12 Aug 2026 08:29 UTC
+# Version: 2026.0812.0829.23
 # Syntax: Domains (without subdomains)
-# Number of entries: 3373
+# Number of entries: 3364
 #
 ss.0001.xyz
 ns.00dani.me
@@ -2566,7 +2566,6 @@ dns.teaminfo.fr
 dns-br.leonardo.tec.br
 dns.techcpu.net
 dns1.techeasy.org
-adguard.techlike.in
 vpn.technicule.info
 dns1.techniverse.net
 doh.technochat.in
@@ -2578,14 +2577,11 @@ dns.teckhawk.be
 thakkali.teej.xyz
 dns.tefuir0829.cn
 family.dns.teknoholistik.com
-dns.teknologiku.com
 homenet.telecomitalia.it
 dns.telekom.de
 d51538618.access.telenet.be
 guard.telesterion.de
 agh.srv.tenete.net
-iana.tenta.io
-opennic.tenta.io
 ag.teqilla.tk
 apne1.dns.terumi.club
 dns.soldier.terumi.club
@@ -2634,7 +2630,6 @@ nsc.torgues.net
 doh.totoro.pub
 chronicle14.tplinkdns.com
 ebpmc.tplinkdns.com
-ngk81hc.tplinkdns.com
 dns.tracker.ink
 access.traders-friend.com
 resolv1.trash.net
@@ -2670,7 +2665,6 @@ blokuj.ujwie.co
 nitter.ujwie.co
 adguard.ulbricht.cloud
 rb750gr3.ulfhednar.ru
-adguard-ironhide.ultima-thule.ru
 doh.ultradns.com
 dns.umbrella.com
 doh.umbrella.com
@@ -3297,7 +3291,6 @@ squidmall.vip
 ssh-storage.ru
 ssytnik.de
 sterlingharris.com
-strangerandomdomain1.space
 strassmair.org
 structoriumwings.ru
 sunnygyl.com
@@ -3312,7 +3305,6 @@ thefamilypuls.com
 thenotionplus.top
 thxvv.ru
 tigrons.ru
-timedns.net
 timmes.nl
 tk31z.com
 tlz.asia
@@ -3335,7 +3327,6 @@ v.recipes
 v0dka.ru
 vadim.online
 vasiliysoldatkin.ru
-vasilykumaev.ru
 veraris.online
 vernikpro.ru
 vik.ro

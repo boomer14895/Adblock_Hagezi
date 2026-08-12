@@ -1757,6 +1757,13 @@
       }
     },
     {
+      "PK": "dandelion.events",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "dankmemer.lol",
       "action": {
         "do": 1,

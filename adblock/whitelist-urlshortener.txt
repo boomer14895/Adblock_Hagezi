@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Aug 2026 07:00 UTC
-! Version: 2026.0811.0700.24
+! Last modified: 12 Aug 2026 07:04 UTC
+! Version: 2026.0812.0704.33
 ! Syntax: AdBlock
 !
 @@||a.189.cn^
@@ -729,7 +729,6 @@
 @@||s.tunpok.com^
 @@||d.tuor.us^
 @@||link.u-pov.ru^
-@@||s.ubyt.es^
 @@||goto.ucr.edu^
 @@||short.udon-morishige.com^
 @@||link.ufpe.br^
@@ -7911,7 +7910,6 @@
 @@||sturly.com^
 @@||stuve.me^
 @@||stwrt.org^
-@@||sty88.site^
 @@||su.pr^
 @@||sua.me^
 @@||suakhoacamlam.com^
@@ -7940,7 +7938,6 @@
 @@||supershort.to^
 @@||superurl.io^
 @@||superxavier.link^
-@@||supi.tools^
 @@||supr.cl^
 @@||supr.link^
 @@||supurlman.com^
@@ -8056,7 +8053,6 @@
 @@||tapme.ink^
 @@||tapmy.app^
 @@||tappyurl.com^
-@@||taps.to^
 @@||tapthelink.cfd^
 @@||tapthelink.click^
 @@||tapto.bio^
@@ -8187,7 +8183,6 @@
 @@||thght.works^
 @@||thinfi.com^
 @@||thinkpl.us^
-@@||thinl.ink^
 @@||thinurl.com^
 @@||thlinks.top^
 @@||thls.co^
@@ -8270,15 +8265,12 @@
 @@||tinybro.com^
 @@||tinycc.com^
 @@||tinycut.in^
-@@||tinycut.io^
 @@||tinyel.com^
 @@||tinyerz.com^
 @@||tinyfy.io^
 @@||tinyfy.me^
-@@||tinygo.co^
 @@||tinygo.net^
 @@||tinyl.co^
-@@||tinyl.ink^
 @@||tinyl.io^
 @@||tinylink.ca^
 @@||tinylink.fr^
@@ -8289,7 +8281,6 @@
 @@||tinylink.me^
 @@||tinylink.net^
 @@||tinylink.onl^
-@@||tinylinkr.com^
 @@||tinylinkurl.com^
 @@||tinylinkurl.net^
 @@||tinyshortener.com^
@@ -8331,7 +8322,6 @@
 @@||tiy.be^
 @@||tj.wtf^
 @@||tkla.be^
-@@||tklinknow.com^
 @@||tklinks.com^
 @@||tkno.co^
 @@||tkopod.co^
@@ -8418,26 +8408,21 @@
 @@||toolify.link^
 @@||toolking.net^
 @@||toolkingo.com^
-@@||toolong.info^
 @@||toolsfox.com^
 @@||toolspivot.com^
 @@||toolssagar.com^
 @@||topkale.me^
 @@||toplistt.com^
-@@||topsitus.com^
 @@||topt.al^
 @@||topurl.cc^
 @@||topvir.com^
 @@||tore.marketing^
 @@||tori.top^
-@@||tos-test.com^
 @@||toskys.cn^
 @@||toss.is^
 @@||totheapp.com^
 @@||toto.pe^
 @@||totopecah.site^
-@@||toui.cc^
-@@||tourefly.com^
 @@||tourl.in^
 @@||tov1.net^
 @@||towa.no^
@@ -8467,7 +8452,6 @@
 @@||traff.as^
 @@||traffbe.com^
 @@||trafget.com^
-@@||traficut.com^
 @@||trahm.co^
 @@||transfer.sh^
 @@||transientfiles.com^
@@ -8491,8 +8475,6 @@
 @@||triggerbee.com^
 @@||trim.cx^
 @@||trim.one^
-@@||trim-me.io^
-@@||trimify.xyz^
 @@||trimlink.ai^
 @@||trimlink.net^
 @@||trimlynk.com^
@@ -8522,7 +8504,6 @@
 @@||trueurl.com^
 @@||trueurl.in^
 @@||trunc.it^
-@@||trunkateurl.com^
 @@||truongthanhlen.live^
 @@||trustafy.link^
 @@||trustbit.me^
@@ -8537,8 +8518,6 @@
 @@||trydevi.to^
 @@||trymongodb.com^
 @@||trynggi.com^
-@@||trynw.net^
-@@||trypcp.net^
 @@||tryurl.io^
 @@||tsbk.tw^
 @@||tshm.fr^
@@ -8588,7 +8567,6 @@
 @@||tvdg.io^
 @@||tvote.org^
 @@||tvoy-link.ru^
-@@||tvss.jp^
 @@||tvurl.cn^
 @@||tw.sv^
 @@||tw.uy^
@@ -8598,7 +8576,6 @@
 @@||twi.im^
 @@||twi.kz^
 @@||twil.io^
-@@||twilink.me^
 @@||twimgv.com^
 @@||twishx.com^
 @@||twitspin.win^
@@ -8653,7 +8630,6 @@
 @@||uabio.me^
 @@||uafly.co^
 @@||ual.fyi^
-@@||ualam.com^
 @@||ub0.cc^
 @@||ubd.one^
 @@||ubidata.link^
@@ -8688,7 +8664,6 @@
 @@||ul.to^
 @@||ul3.ir^
 @@||uldox.com^
-@@||ulnk.app^
 @@||ultimateaderaser.com^
 @@||ultra.bo^
 @@||ulvis.net^
@@ -8732,7 +8707,6 @@
 @@||uofr.us^
 @@||uoft.me^
 @@||uom.link^
-@@||uorbursarysupport.com^
 @@||uos.cc^
 @@||up.to^
 @@||updating.me^
@@ -8742,7 +8716,6 @@
 @@||upriserz.link^
 @@||upstriderlinks.com^
 @@||upt.sh^
-@@||uptolink.one^
 @@||uptoplink.com^
 @@||upyun.online^
 @@||upzat.com^
@@ -8812,14 +8785,12 @@
 @@||url50.com^
 @@||url56x.com^
 @@||url5xx.com^
-@@||url647.xyz^
 @@||url666x.com^
 @@||url69xx.com^
 @@||url6xx.com^
 @@||url724.link^
 @@||url777x.com^
 @@||url77xx.com^
-@@||url7x.com^
 @@||url84.com^
 @@||url88.online^
 @@||url8x.com^
@@ -8916,7 +8887,6 @@
 @@||urlmini.io^
 @@||urlmkr.net^
 @@||urlno.com^
-@@||urlnova.com^
 @@||urlo.in^
 @@||urlo12x.com^
 @@||urlot.com^
@@ -9034,15 +9004,12 @@
 @@||usat.ly^
 @@||use.my^
 @@||useclick.io^
-@@||usego.net^
 @@||uselinkkit.com^
 @@||uselinkwizard.com^
-@@||usenw.net^
 @@||userhits.com^
 @@||userlinks.in^
 @@||useshort.com^
 @@||usetiny.link^
-@@||usetypeai.com^
 @@||usf.services^
 @@||usglife.com^
 @@||usheethe.com^
@@ -9145,12 +9112,10 @@
 @@||viaalto.me^
 @@||viahold.com^
 @@||viaja.am^
-@@||vialink.dk^
 @@||vib.care^
 @@||victoryworship.team^
 @@||vid.lu^
 @@||vid4u.net^
-@@||vidcy.co^
 @@||videopro.live^
 @@||vidmy.fun^
 @@||vidzsb.com^

@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Aug 2026 08:20 UTC
-! Version: 2026.0811.0820.27
+! Last modified: 12 Aug 2026 08:30 UTC
+! Version: 2026.0812.0830.33
 ! Syntax: AdBlock
 ! Number of entries: 269
 !
@@ -118,7 +118,6 @@
 ||dns12.quad9.net^
 ||dns9.quad9.net^
 ||dnspub.restena.lu^
-||dns.rubyfish.cn^
 ||free.shecan.ir^
 ||dns.smartguard.io^
 ||doh-01.spectrum.com^
@@ -129,6 +128,7 @@
 ||homenet.telecomitalia.it^
 ||sdkconfig.tlivedns.com^
 ||dns.twnic.tw^
+||dot.ublockdns.com^
 ||my.ublockdns.com^
 ||dns.umbrella.com^
 ||doh.umbrella.com^

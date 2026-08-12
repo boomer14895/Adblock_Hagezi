@@ -23,7 +23,9 @@ stg.www.84302764.xyz
 1.stg.www.84302764.xyz
 2.stg.www.84302764.xyz
 4.stg.www.84302764.xyz
+6.stg.www.84302764.xyz
 7.stg.www.84302764.xyz
+8.stg.www.84302764.xyz
 ackprovided.com
 0.ackprovided.com
 3.ackprovided.com
@@ -942,9 +944,6 @@ fork.misguidedfast.com
 9.fork.misguidedfast.com
 misreportmeh.com
 bump.misreportmeh.com
-0.bump.misreportmeh.com
-1.bump.misreportmeh.com
-2.bump.misreportmeh.com
 mostlyfor.com
 bump.mostlyfor.com
 www.mostlyfor.com
@@ -1716,6 +1715,16 @@ loader.woxikon.de
 8.loader.woxikon.de
 9.loader.woxikon.de
 yahoolock.com
+0.yahoolock.com
+1.yahoolock.com
+2.yahoolock.com
+3.yahoolock.com
+4.yahoolock.com
+5.yahoolock.com
+6.yahoolock.com
+7.yahoolock.com
+8.yahoolock.com
+9.yahoolock.com
 yakunitfall.com
 lieu.yakunitfall.com
 0.lieu.yakunitfall.com

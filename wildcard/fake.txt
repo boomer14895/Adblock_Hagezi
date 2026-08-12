@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Aug 2026 06:58 UTC
-# Version: 2026.0811.0658.29
+# Last modified: 12 Aug 2026 07:02 UTC
+# Version: 2026.0812.0702.22
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 16654
+# Number of entries: 16616
 #
 *.eoutlet.2023shoponline.com
 *.eu.2bagsvalley.cn
@@ -208,7 +208,6 @@
 *.pellet-ecos.company.site
 *.trading.corso-web.com
 *.locations.crocs.de
-*.tax.crypto.com
 *.spotiifyprimesnova.ct.ws
 *.at.curalise.com
 *.de.curalise.com
@@ -585,13 +584,8 @@
 *.de.soolinen.com
 *.euro.stanleys1913.com
 *.eu.stanlyss1913.com
-*.stilejx.stilop.mom
-*.webtrader.swisscapitalplatform.com
 *.abigo4u.symfony.nl
 *.the-garden-pavilions-of-sobranie-russian.eshop.t-online.de
-*.ins.talentloompro-at.com
-*.insta.talentloompro-at.com
-*.meta.talentloompro-at.com
 *.metas.talentnexuspro-at.com
 *.metat.talentnexuspro-at.com
 *.igfiv.talentway-at.com
@@ -1019,6 +1013,7 @@
 *.aktivbike24.com
 *.aktivimfreien.com
 *.aktivmaxx.com
+*.akusoli.com
 *.akustikholz.shop
 *.al-nassr.shop
 *.al-nassr.store
@@ -1048,6 +1043,7 @@
 *.alfonsoquintas.com
 *.alfrescodurable.com
 *.algexia.pro
+*.algo-robot.co
 *.algopro.us
 *.algorates.com
 *.alheritiere-brennholz.com
@@ -2501,7 +2497,6 @@
 *.bitcoin-everest-ai.fr
 *.bitcoin-pharmacy.com
 *.bitcoin-revolution.org
-*.bitcoin-up.io
 *.bitcoin-xact.fr
 *.bitcoinarchon.com
 *.bitcoineer.ai
@@ -4199,7 +4194,6 @@
 *.diandrabeauty.xyz
 *.dianjingniu-online.com
 *.diantrag.com
-*.diaryofafitmommy.com
 *.dicamgruppe.de
 *.dicha-anhaenger.com
 *.didro.de
@@ -5033,6 +5027,7 @@
 *.ettern24.de
 *.eu-arcteryx.com
 *.eu-first.com
+*.eu-meds.online
 *.eu-pharmacy-online.com
 *.eu-pillstore.com
 *.eu-sezane.com
@@ -5098,7 +5093,6 @@
 *.europharmx.com
 *.europillsonline.com
 *.eurorxdrugs.com
-*.eurowerte.de
 *.eurshopping.com
 *.eurvipsale.shop
 *.eushop247.com
@@ -5346,6 +5340,7 @@
 *.farmacija-hrvatska.com
 *.farmacijahr.com
 *.farmacijahrvatska24.com
+*.farmaed.com
 *.farmakeioellada24.com
 *.farmakeioellinika.com
 *.farmakeioellinika24.com
@@ -5995,6 +5990,7 @@
 *.galeriemodehaus.com
 *.galerieoswald.de
 *.galeryfile.com
+*.galileofx.com
 *.galleria-kaufhof.de
 *.gallusgarten.com
 *.gambystudios.com
@@ -6633,7 +6629,6 @@
 *.great-market.com
 *.greatescapery.com
 *.greatestpod.com
-*.greatpillsshops.com
 *.greattioa.com
 *.greecefarmakeio.com
 *.greenbird-shop.com
@@ -7912,7 +7907,6 @@
 *.iovyshop.com
 *.iowautotrading.com
 *.ipgatetrade.pro
-*.iponexus.net
 *.iprimmo.com
 *.iptv-kaufen-germany.shop
 *.iptvanbieter.at
@@ -8951,6 +8945,7 @@
 *.lbccnet.com
 *.lbsbikes.com
 *.lbslepe.de
+*.lbtinc.com
 *.lbzdzx.com
 *.lccontainersupply.com
 *.lcfservice.com
@@ -9542,6 +9537,7 @@
 *.magicwandshop.de
 *.magiemarkt.com
 *.magischepfoten.de
+*.magiskapk.net
 *.magiskzip.com
 *.magliecalciocn.net
 *.magmovebikes.com
@@ -10115,7 +10111,6 @@
 *.minoxidil-shop.cz
 *.minoxidily.eu
 *.mintchop.com
-*.mintechh.com
 *.miraeeparis.de
 *.miraefashion.com
 *.mirainvestments.ltd
@@ -13224,7 +13219,6 @@
 *.secure-vr-online.de
 *.secureinvest.org
 *.securemed.shop
-*.securemedsshop.com
 *.secureviewrollershutters.com
 *.securitybekleidung.de
 *.sedore.de
@@ -14030,7 +14024,6 @@
 *.steelmoebel.de
 *.stefaniesdailyshop.de
 *.stehaufe.de
-*.steiffen.shop
 *.steigerungderpotenz.de
 *.steinberg-munchen.com
 *.steinbichler-online.de
@@ -14040,7 +14033,6 @@
 *.steinersearch.at
 *.steinhaus-berlin.co
 *.steinkamp-container.com
-*.steinkampbillig.com
 *.stelcore-retail24.de
 *.stella-mccartney.de
 *.stella-zurich.com
@@ -14089,7 +14081,6 @@
 *.stocket.net
 *.stockio.shop
 *.stockskate.com
-*.stockwises.com
 *.stockyis.com
 *.stoertebekkerbeauty.shop
 *.stoffbiotop.com
@@ -14158,7 +14149,6 @@
 *.stretsure.com
 *.streurmann.de
 *.strickwareverkauf.com
-*.stridepure.de
 *.striegel-k-containers.de
 *.strielkowski.com
 *.stringedharmony.com
@@ -14235,7 +14225,6 @@
 *.sukehiro.com
 *.sukhadaonlineservices.com
 *.sukienkisoutlet.com
-*.sultanarituals.shop
 *.sultanuhren.de
 *.summarizee.com
 *.summaryu.com
@@ -14306,12 +14295,10 @@
 *.supplierseu.com
 *.supplyaquatics.com
 *.supportfortross.org
-*.supprofi.com
 *.suprabatt.de
 *.suprafootweardeutschland.com
 *.supragaming.net
 *.supraschuheonlineshop.de
-*.supreme-beauty.de
 *.supreme-codes.shop
 *.surfabenteuer.com
 *.surfapparelus.com
@@ -14432,7 +14419,6 @@
 *.taschego.com
 *.taschenalle.com
 *.taschenclub.com
-*.taschenmesser-de.com
 *.taschenrabatt.com
 *.taschenschmied.de
 *.tassenbrennerei.shop
@@ -14450,7 +14436,6 @@
 *.taxoflex.de
 *.tbclacrosse.com
 *.tbnlmv.shop
-*.tbtconcept.com
 *.tbz-versand.de
 *.tcinosgroup.com
 *.tcomplex.de
@@ -14469,7 +14454,6 @@
 *.techfield.de
 *.techhomede.com
 *.techhouse.store
-*.technik-ambiente.de
 *.technik-fuchs.de
 *.technik-schnaeppchen-shop.de
 *.technikambiente-gmbh.de
@@ -14513,8 +14497,6 @@
 *.tellidex.io
 *.teltow-apotheke-berlin.de
 *.telttamyyda.com
-*.temala.de
-*.templogic.de
 *.temptlife.com
 *.temude.com
 *.ten-estate.com
@@ -14546,7 +14528,6 @@
 *.teslaxtrading.com
 *.teslaxx.net
 *.tesler.software
-*.tesler-inc.trade
 *.test-iq-online.com
 *.testereo.com
 *.testorino.de
@@ -14669,7 +14650,6 @@
 *.theprivategroup.net
 *.thequintnewstoday.com
 *.theralogixonline.com
-*.therapie-decken.com
 *.therapieschaukel.com
 *.theratouch.shop
 *.thercparts.com
@@ -14687,7 +14667,6 @@
 *.thermomix-vorwerk-tm7.de
 *.thermoscup-shop.com
 *.thermoshapers.de
-*.thermotrix.de
 *.theroyalsaunas.com
 *.therushlightstore.com
 *.thesissystore.com
@@ -14735,7 +14714,6 @@
 *.thursdayboots-osterreich.com
 *.thursdaybootsdeutschiand.com
 *.thursdaybootsdeutschland.com
-*.thursdaybootswien.at
 *.thursdaycanada.com
 *.tiagocarlosdultrary.shop
 *.tickgreen.net
@@ -14861,7 +14839,6 @@
 *.toolhavenhub.com
 *.toolhouseoffer.com
 *.toolkomp.com
-*.toolproonsale.com
 *.toolrapid.com
 *.tools-market.vip
 *.toolsde.com
@@ -14948,7 +14925,6 @@
 *.tourture.com
 *.toutetplus.com
 *.tovara.de
-*.tovedaph.cc
 *.tovfurnishing.com
 *.tower-home.com
 *.toxic-off.shop
@@ -15017,7 +14993,6 @@
 *.traditioncasino-online.de
 *.traditionellertee.com
 *.tragleicht.de
-*.trailer-container.com
 *.trailer-master.de
 *.trailer-master.eu
 *.trailertour.com
@@ -15057,7 +15032,6 @@
 *.travenu.de
 *.traviro.de
 *.travisscottofficial.com
-*.traxxas-de.com
 *.treasureeshop.de
 *.treasuresshop.top
 *.treasurypool-nado.xyz
@@ -15169,7 +15143,6 @@
 *.truuly.de
 *.trx-on-chain.de
 *.trxdynis.com
-*.try-virium.com
 *.tryapp.de
 *.trybal.net
 *.trybandoo.com
@@ -15242,7 +15215,6 @@
 *.ubitex.com
 *.ucryptocapital.com
 *.udbroker.com
-*.udofficialalfresco.com
 *.udoke.com
 *.uebersiedlunglinz.at
 *.ueqlkvv.bar
@@ -15305,7 +15277,6 @@
 *.unico-studio.com
 *.unikattoshop.de
 *.unimeal.com
-*.union-anhanger.com
 *.unionglobalcredit.com
 *.unionmeds.com
 *.unipillz.com
@@ -15352,7 +15323,6 @@
 *.upsolutmv.com
 *.upup.at
 *.urameigpu.monster
-*.urban-rad.com
 *.urban-rituals.shop
 *.urban-transporte.com
 *.urbanclasse.store
@@ -15405,7 +15375,6 @@
 *.uspickleballpaddle.com
 *.usrebatebaseball.com
 *.ussolesensation.com
-*.usstylesite.com
 *.ustennisaccessories.com
 *.ustiquemasejoy.shop
 *.uswestnews.com
@@ -15459,7 +15428,6 @@
 *.vanss.at
 *.vanss.de
 *.vantagetrades.com
-*.vapedampf.com
 *.vapegunstig.de
 *.vapekitprime.com
 *.vapeversorgung.de
@@ -15475,7 +15443,6 @@
 *.varulo.de
 *.vasagleaugeschaft.com
 *.vaschoen.com
-*.vasile24.de
 *.vasmoebel.de
 *.vasons.de
 *.vassias.com
@@ -15525,7 +15492,6 @@
 *.velamostore.com
 *.velander-beratung.de
 *.velanoshop.com
-*.velaro-plus.com
 *.velencia.de
 *.velenza.de
 *.velinaboutiquewien.com
@@ -15545,7 +15511,6 @@
 *.velpo-vertrieb.com
 *.velqirastore.com
 *.veluflex.com
-*.velvet-mode.store
 *.vema-elektro.de
 *.vemoso-shop.de
 *.vendit24.de
@@ -15553,7 +15518,6 @@
 *.vendomeprestige.com
 *.vendorhub.store
 *.vendyle.com
-*.veneracrea.com
 *.venorital.com
 *.venority.de
 *.venticlub.de
@@ -15632,7 +15596,6 @@
 *.vibeheat.com
 *.vibevapeshop.com
 *.vibramshoes-my.com
-*.vibramwienshop.at
 *.viceregale.com
 *.vicinityk.com
 *.victoriassecret-vip-online.shop
@@ -15657,7 +15620,6 @@
 *.viennamode.com
 *.viennastil.at
 *.vientooffice.de
-*.vierjahreszeitengarten.com
 *.vierpfote.de
 *.vigamtransport.com
 *.vignobles-terroirs.com
