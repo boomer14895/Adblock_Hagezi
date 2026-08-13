@@ -2219,6 +2219,13 @@
       }
     },
     {
+      "PK": "eay.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.eco",
       "action": {
         "do": 0,

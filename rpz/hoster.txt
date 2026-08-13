@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1786488060 43200 3600 259200 3600
+@ SOA localhost. root.localhost. 1786606260 43200 3600 259200 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Aug 2026 22:41 UTC
-; Version: 2026.0811.2241.25
+; Last modified: 13 Aug 2026 07:31 UTC
+; Version: 2026.0813.0731.10
 ; Syntax: RPZ
-; Number of entries: 2514
+; Number of entries: 2516
 ;
 come.ac CNAME .
 *.come.ac CNAME .
@@ -1744,6 +1744,8 @@ b2b.lc CNAME .
 *.b2b.lc CNAME .
 bilder.lc CNAME .
 *.bilder.lc CNAME .
+bitly.lc CNAME .
+*.bitly.lc CNAME .
 blog.lc CNAME .
 *.blog.lc CNAME .
 clan.lc CNAME .

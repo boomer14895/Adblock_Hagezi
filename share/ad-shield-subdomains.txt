@@ -942,7 +942,6 @@ fork.misguidedfast.com
 7.fork.misguidedfast.com
 8.fork.misguidedfast.com
 9.fork.misguidedfast.com
-misreportmeh.com
 bump.misreportmeh.com
 mostlyfor.com
 bump.mostlyfor.com
@@ -1252,10 +1251,7 @@ scientificfor.com
 9.scientificfor.com
 stg.scientificfor.com
 0.stg.scientificfor.com
-1.stg.scientificfor.com
-2.stg.scientificfor.com
 3.stg.scientificfor.com
-4.stg.scientificfor.com
 5.stg.scientificfor.com
 6.stg.scientificfor.com
 7.stg.scientificfor.com

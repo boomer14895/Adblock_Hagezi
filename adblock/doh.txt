@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 Aug 2026 08:29 UTC
-! Version: 2026.0812.0829.23
+! Last modified: 13 Aug 2026 08:20 UTC
+! Version: 2026.0813.0820.30
 ! Syntax: AdBlock
-! Number of entries: 3364
+! Number of entries: 3407
 !
 ||ss.0001.xyz^
 ||ns.00dani.me^
@@ -336,6 +336,7 @@
 ||dns.bitup.de^
 ||dns-tls.bitwiseshift.net^
 ||woc.beelstb.biz.id^
+||gate.blackboxdynamics.io^
 ||dns1.blackrandcrf.ru^
 ||fennec.blackyfox.net^
 ||doh.de.blahdns.com^
@@ -369,6 +370,7 @@
 ||dns.bmwhocking.com^
 ||cloud.boboba.ru^
 ||dns.bofh.in^
+||doh.boje8.me^
 ||adguard.bonis.de^
 ||adguard1.bonis.de^
 ||adguard2.bonis.de^
@@ -435,10 +437,12 @@
 ||dns.ch295.ru^
 ||dns.chadeyron.fr^
 ||dns.chalkychalk.com^
+||rdns2.chancetheitguy.com^
 ||adguard.chanhome.xyz^
 ||cloudsrv.charitosnet.de^
 ||adghome.charleschan.net^
 ||dns.charraud.eu^
+||dns.chattalk.link^
 ||adguard.chaudharyarnav.com^
 ||dns.chenu.ch^
 ||adguard.chestnov.ru^
@@ -458,6 +462,7 @@
 ||dns.circl.lu^
 ||dns.citrahost.com^
 ||dns.citystars.cn^
+||ns.ciwer.cn^
 ||alpha.cixy.xyz^
 ||stella.clae.net^
 ||dns.clanless.ovh^
@@ -552,6 +557,7 @@
 ||shinano.anime.com.my^
 ||test.businessconnect.com.tr^
 ||dns.ceai.com.tw^
+||dns.cloud88.com.au^
 ||dns.complianceauditores.com.br^
 ||dns.damlayayinevi.com.tr^
 ||adguard.doranpierst.com.tr^
@@ -614,6 +620,7 @@
 ||dns.cybertonic.tech^
 ||dns2.cybrespace.net^
 ||dns.cynthialabs.net^
+||dns.cysynex.cloud^
 ||nextcloud.d-alahmad.de^
 ||dns.d365.in^
 ||s2.d3mik.ru^
@@ -769,11 +776,14 @@
 ||ams02.dnscry.pt^
 ||ams03.dnscry.pt^
 ||aqx01.dnscry.pt^
+||ath01.dnscry.pt^
 ||atl01.dnscry.pt^
+||bcn01.dnscry.pt^
 ||bei01.dnscry.pt^
 ||bkk01.dnscry.pt^
 ||blr01.dnscry.pt^
 ||bne01.dnscry.pt^
+||bog01.dnscry.pt^
 ||bom02.dnscry.pt^
 ||bre01.dnscry.pt^
 ||bts01.dnscry.pt^
@@ -800,6 +810,7 @@
 ||geg01.dnscry.pt^
 ||grr01.dnscry.pt^
 ||gva01.dnscry.pt^
+||gye01.dnscry.pt^
 ||haf01.dnscry.pt^
 ||han01.dnscry.pt^
 ||hel01.dnscry.pt^
@@ -827,6 +838,7 @@
 ||lis02.dnscry.pt^
 ||llk01.dnscry.pt^
 ||lon01.dnscry.pt^
+||los01.dnscry.pt^
 ||los02.dnscry.pt^
 ||mad01.dnscry.pt^
 ||man01.dnscry.pt^
@@ -834,6 +846,7 @@
 ||mel01.dnscry.pt^
 ||mia01.dnscry.pt^
 ||mil01.dnscry.pt^
+||mnl01.dnscry.pt^
 ||moe01.dnscry.pt^
 ||mow01.dnscry.pt^
 ||mrs01.dnscry.pt^
@@ -852,6 +865,7 @@
 ||pdx01.dnscry.pt^
 ||ped01.dnscry.pt^
 ||per01.dnscry.pt^
+||phl01.dnscry.pt^
 ||phx01.dnscry.pt^
 ||prg01.dnscry.pt^
 ||rdd01.dnscry.pt^
@@ -1045,6 +1059,7 @@
 ||adguard.ef67daisuki.club^
 ||dns.efficientdocuments.com^
 ||cloud.efreakbnc.net^
+||doh.eieidns.com^
 ||adguard.eischmann.cz^
 ||dd.elashri.net^
 ||hole.elbschloss.xyz^
@@ -1136,6 +1151,7 @@
 ||gsat.familyds.com^
 ||adguard1.fampopprol.me^
 ||dns.fancyorg.at^
+||dns.farakaft.ir^
 ||dns.farshidhakimy.de^
 ||dns.farshmc.ru^
 ||waterfox-ohttp-relay.fastly-edge.com^
@@ -1288,6 +1304,7 @@
 ||cloud.gqwyq.top^
 ||adguard.grantbruneau.com^
 ||cloud.graphicpoint.pl^
+||dns.green-ping.lol^
 ||adguard.green1052.com^
 ||secure-dns.gridlax.com^
 ||dns.griffioen.me^
@@ -1392,6 +1409,7 @@
 ||dns.hotta.page^
 ||dns.housedenolf.be^
 ||freemnt.hpitto.com^
+||doh.hshkf.com^
 ||pub.hsuan.ink^
 ||dnsguard.hte.vn^
 ||dns.huanmave.cc^
@@ -1402,6 +1420,7 @@
 ||dns.hujiayucc.cn^
 ||doth.huque.com^
 ||dns.huseynov.work^
+||dns.hussainnabil.de^
 ||dns.huth.nu^
 ||v2-1.huwenqiang.xyz^
 ||ad.huyct.net^
@@ -1515,6 +1534,7 @@
 ||dns.itwht.com^
 ||pdns.itxe.net^
 ||dns.itya.xyz^
+||dns1.iwall.cloud^
 ||ag.iyn.one^
 ||adg.jabertechnologies.ch^
 ||securifi.jagalabs.net^
@@ -1596,6 +1616,7 @@
 ||dns.kc2wbx.com^
 ||ad.kccsl.top^
 ||dns.kebree.fr^
+||dns2.keinewerbung.me^
 ||guard.keiper.net^
 ||doh.kekew.info^
 ||doh.kekew.racing^
@@ -1737,12 +1758,14 @@
 ||dns.mafyuh.io^
 ||guard.magic-pics.tk^
 ||dns.mahiro.online^
+||adhome.maige.fun^
 ||dns.mailcastle.in^
 ||dnsserver.mailchan.eu^
 ||dns.maitrekuc.fr^
 ||dns.malhuda.com^
 ||dns.mandre.dev^
 ||adguard.manmademagic.com^
+||dns.maolaohei.xyz^
 ||dns.maomaovpn.com^
 ||adguard.mapor.co^
 ||dns.marasov.id^
@@ -1993,6 +2016,7 @@
 ||dns1.nhgnet.de^
 ||dns2.nhgnet.de^
 ||dns.nhtsky.com^
+||d.niaox.com^
 ||dnsotls.lab.nic.cl^
 ||dns.nic.in^
 ||doh.nic.lv^
@@ -2044,6 +2068,7 @@
 ||xpen.ns01.info^
 ||x.ns1net.com^
 ||dnscache0.ns71.net^
+||dns.ntccloud.vn^
 ||dns.ntr.lol^
 ||dns1.ntus.io^
 ||dns.nubecita.biz^
@@ -2126,6 +2151,7 @@
 ||dns.p55k.com^
 ||dns.pacificmonster.com^
 ||dns.paesa.es^
+||dns.paliska.net^
 ||adguard.pancybertronics.com^
 ||adguard.pangerl.it^
 ||dns.panszelescik.pl^
@@ -2186,6 +2212,7 @@
 ||dns.ploshadi.ru^
 ||privacy.plumedns.com^
 ||adguard.pmoebi.xyz^
+||dns.pmxu.link^
 ||muppy.pnamae.com^
 ||dns.pointless.chat^
 ||dns.polarwinds.ru^
@@ -2256,6 +2283,7 @@
 ||dns.qq.com^
 ||ns1.qquack.org^
 ||dns.qrtz.club^
+||hostdare.qtxd.net^
 ||2.dnscrypt-cert.quad9.net^
 ||alpha-dns.quad9.net^
 ||dns.quad9.net^
@@ -2388,6 +2416,7 @@
 ||dns.homenet.saschagaspar.net^
 ||dns.satellite226.cloud^
 ||dns.sbstructure.ir^
+||ns1.sc-lezhi.com^
 ||us.sc92.cn^
 ||dns.scapetical.com^
 ||dns.scarx.net^
@@ -2474,6 +2503,7 @@
 ||ag.snrka.ru^
 ||adguardhome.softcloud.pe^
 ||myprivityvpn.softether.net^
+||wtbd02.solowalk.top^
 ||ns.solutics.ec^
 ||ns.solutionsbest.de^
 ||adguard.spaceindex.net^
@@ -2485,6 +2515,7 @@
 ||dns.spirio.fr^
 ||s1.srch.top^
 ||adguard.sre.ovh^
+||dns.srijan.site^
 ||proxy.srs.su^
 ||dns2.srv-home.fr^
 ||resolve.srv-pro.de^
@@ -2492,6 +2523,7 @@
 ||resolve2.srv-pro.de^
 ||dns.sshub.win^
 ||doh.ntu.ssooss.win^
+||ag.ssrahul96.xyz^
 ||dns.sstomp.nl^
 ||dns2.st4rs.net^
 ||hk2.ss.startagegames.com^
@@ -2567,6 +2599,7 @@
 ||dns-br.leonardo.tec.br^
 ||dns.techcpu.net^
 ||dns1.techeasy.org^
+||adguard.techlike.in^
 ||vpn.technicule.info^
 ||dns1.techniverse.net^
 ||doh.technochat.in^
@@ -2578,11 +2611,14 @@
 ||thakkali.teej.xyz^
 ||dns.tefuir0829.cn^
 ||family.dns.teknoholistik.com^
+||dns.teknologiku.com^
 ||homenet.telecomitalia.it^
 ||dns.telekom.de^
 ||d51538618.access.telenet.be^
 ||guard.telesterion.de^
 ||agh.srv.tenete.net^
+||iana.tenta.io^
+||opennic.tenta.io^
 ||ag.teqilla.tk^
 ||apne1.dns.terumi.club^
 ||dns.soldier.terumi.club^
@@ -2631,6 +2667,7 @@
 ||doh.totoro.pub^
 ||chronicle14.tplinkdns.com^
 ||ebpmc.tplinkdns.com^
+||ngk81hc.tplinkdns.com^
 ||dns.tracker.ink^
 ||access.traders-friend.com^
 ||resolv1.trash.net^
@@ -2666,6 +2703,7 @@
 ||nitter.ujwie.co^
 ||adguard.ulbricht.cloud^
 ||rb750gr3.ulfhednar.ru^
+||adguard-ironhide.ultima-thule.ru^
 ||doh.ultradns.com^
 ||dns.umbrella.com^
 ||doh.umbrella.com^
@@ -3017,6 +3055,7 @@
 ||dns4eu.online^
 ||dns4me.net^
 ||dns8.org^
+||dnscity.org^
 ||dnsdoh.art^
 ||dnsenc.com^
 ||dnsforfamily.com^
@@ -3111,6 +3150,7 @@
 ||ikarosalpha.xyz^
 ||imperio.top^
 ||incaseineeditoneday.com^
+||ingenmannsland.online^
 ||inpssh.online^
 ||intertop.link^
 ||ion.pm^
@@ -3292,6 +3332,7 @@
 ||ssh-storage.ru^
 ||ssytnik.de^
 ||sterlingharris.com^
+||strangerandomdomain1.space^
 ||strassmair.org^
 ||structoriumwings.ru^
 ||sunnygyl.com^
@@ -3306,6 +3347,7 @@
 ||thenotionplus.top^
 ||thxvv.ru^
 ||tigrons.ru^
+||timedns.net^
 ||timmes.nl^
 ||tk31z.com^
 ||tlz.asia^
@@ -3328,6 +3370,7 @@
 ||v0dka.ru^
 ||vadim.online^
 ||vasiliysoldatkin.ru^
+||vasilykumaev.ru^
 ||veraris.online^
 ||vernikpro.ru^
 ||vik.ro^

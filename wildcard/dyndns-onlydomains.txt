@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Aug 2026 08:07 UTC
-# Version: 2026.0810.0807.37
+# Last modified: 13 Aug 2026 08:19 UTC
+# Version: 2026.0813.0819.52
 # Syntax: Domains (without subdomains)
-# Number of entries: 1523
+# Number of entries: 1524
 #
 dyn.addr.tools
 changeip.co.uk
@@ -1177,6 +1177,7 @@ possessed.us
 prettyweak.com
 priamaakcia.sk
 pride.moe
+pride.ngo
 privatedns.com
 privatedns.org
 privateimport.jp

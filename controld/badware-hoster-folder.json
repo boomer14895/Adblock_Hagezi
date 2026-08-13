@@ -1499,6 +1499,13 @@
       }
     },
     {
+      "PK": "bitly.lc",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "bitly.net",
       "action": {
         "do": 0,
